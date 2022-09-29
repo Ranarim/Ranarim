@@ -16,7 +16,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
 <img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
