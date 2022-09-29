@@ -7,4 +7,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
+- I am currently working on a full stack web plattform for the 24h care system
