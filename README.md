@@ -13,7 +13,5 @@
 - 💬 Ask me about React, Redux, TypeScript and Express
 - 📫 You can reach me under [johannes.c.maier@gmail.com](mailto:johannes.c.maier@gmail.com)
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
