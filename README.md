@@ -16,6 +16,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
 <img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img width="40" height="40" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
@@ -29,6 +30,7 @@
 <img width="40" height="40" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 <img width="40" height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+</div>
 
 
 
