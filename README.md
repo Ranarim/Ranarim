@@ -17,18 +17,18 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
-<img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
-<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
-<img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
-<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
-<img width="40" height="40" alt="nextjs" src="./icons/nextjs.svg"/>
-<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
-<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
-<img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/>
+<img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+<img width="40" height="40" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/HTML5/HTML5-original.svg"/>
+<img width="40" height="40" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
+<img width="40" height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 
 
 
