@@ -7,8 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ### 👨‍💻 About Me :
 - 🔭 I am currently working on a full stack web plattform for the 24h care system
 - 🌱 I a currently learning AWS and Java
@@ -18,4 +16,6 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
 
