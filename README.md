@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me :
 - 🔭 I am currently working on a full stack web plattform for the 24h care system
-- 🌱 I a currently learning AWS and Java
+- 🌱 I am currently learning AWS and Java
 - 💬 Ask me about React, Redux, TypeScript and Express
 - 📫 You can reach me under [johannes.c.maier@gmail.com](mailto:johannes.c.maier@gmail.com)
 
